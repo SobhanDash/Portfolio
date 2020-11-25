@@ -1,0 +1,155 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&family=Titillium+Web:wght@400;600&display=swap');
+
+/** root **/
+:root {
+    --primary: #4C1D95;
+    --gray: #E5E7EB;
+    --dark-gray: #6B7280;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0px;
+}
+
+hr {
+    margin: 2rem 0rem;
+}
+
+/* spaces */
+
+.margin-md {
+    margin: 2rem 0rem;
+}
+
+/** container **/
+.container-fluid {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.container-center {
+    max-width: 600px;
+    margin: auto;
+    padding: 1rem 1rem;
+}
+
+/** links **/
+.link {
+    box-sizing: border-box;
+    text-decoration: none;
+    width: max-content;
+    min-width: 140px;
+    border-radius: 0.5rem;
+    padding: 0.5rem 1rem 0.5rem 1rem;
+    /* margin: 1rem  0rem; */
+}
+
+.link-primary {
+    background-color: var(--primary);
+    color: white;
+}
+
+.link-secondary {
+    color: var(--primary);
+    border: 1px solid var(--primary);
+}
+
+/** lists **/
+
+.list-non-bullet {
+    list-style: none;
+}
+
+.list-item-inline {
+    display: inline;
+    padding: 0rem 0.5rem;
+}
+
+/** navigation **/
+
+
+.navigation {
+    background-color: var(--primary);
+    color: white;
+    padding: 1rem;
+    border-bottom-left-radius: 1rem;
+}
+
+.navigation .nav-brand {
+    font-weight: bold;
+    font-size: 1.1rem;
+}
+
+.navigation .nav-pills {
+    text-align: right;
+}
+
+.navigation .link {
+    color: white;
+}
+
+.navigation .active {
+    font-weight: bold;
+}
+
+/** header **/
+
+.hero {
+    font-family: 'Titillium Web', sans-serif;
+    padding: 2rem;
+    padding-top: 5rem;
+}
+
+.hero .hero-ing {
+    max-width: 350px;
+    display: block;
+    margin: auto;
+}
+
+.hero .hero-heading {
+    padding-top: 1rem;
+    color: var(--dark-gray);
+    text-align: center;
+}
+
+.hero .hero-heading .header-inverted {
+    color: var(--primary)
+}
+
+/** section **/
+
+.section {
+    padding: 2rem;
+}
+.section h1 {
+    text-align: center;
+    
+}
+
+.ow {
+    background-color: var(--gray);
+}
+
+/** footer **/
+
+.footer {
+    background-color: var(--primary);
+    padding: 2rem 0rem;
+    text-align: center;
+    color: white;
+    border-top-right-radius: 1rem;
+}
+
+.footer .link {
+    color: white;
+}
+
+.footer .footer-header {
+    font-weight: bold;
+    font-size: large;
+}
+
+.footer ul {
+    padding-inline-start: 0px;
+}
