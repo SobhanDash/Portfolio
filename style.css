@@ -104,7 +104,8 @@ hr {
 }
 
 .hero .hero-ing {
-    max-width: 350px;
+    width: 350px;
+    max-width: 100%;
     display: block;
     margin: auto;
 }
