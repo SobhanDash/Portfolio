@@ -73,7 +73,7 @@ hr {
     background-color: var(--primary);
     color: white;
     padding: 1rem;
-    border-bottom-left-radius: 1rem;
+    border-bottom-right-radius: 1rem;
 }
 
 .navigation .nav-brand {
@@ -138,7 +138,7 @@ hr {
     padding: 2rem 0rem;
     text-align: center;
     color: white;
-    border-top-right-radius: 1rem;
+    border-top-left-radius: 1rem;
 }
 
 .footer .link {
