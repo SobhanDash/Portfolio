@@ -142,6 +142,7 @@ hr {
     color: white;
     border-bottom-right-radius: 1rem;
     font-family: 'Titillium Web', sans-serif;
+    font-size: 1.1rem;
 }
 
 .footer .link {
@@ -150,7 +151,7 @@ hr {
 
 .footer .footer-header {
     font-weight: bold;
-    font-size: large;
+    font-size: 1.5rem;
 }
 
 .footer ul {
