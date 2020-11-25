@@ -74,6 +74,7 @@ hr {
     color: white;
     padding: 1rem;
     border-top-left-radius: 1rem;
+    font-family: 'Titillium Web', sans-serif;
 }
 
 .navigation .nav-brand {
@@ -139,6 +140,7 @@ hr {
     text-align: center;
     color: white;
     border-bottom-right-radius: 1rem;
+    font-family: 'Titillium Web', sans-serif;
 }
 
 .footer .link {
