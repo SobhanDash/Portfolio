@@ -124,6 +124,7 @@ hr {
 
 .section {
     padding: 2rem;
+    font-size: large;
 }
 .section h1 {
     text-align: center;
