@@ -63,7 +63,7 @@ hr {
 
 .list-item-inline {
     display: inline;
-    padding: 0rem 0.5rem;
+    padding: 0rem 0.4rem;
 }
 
 /** navigation **/
@@ -73,7 +73,7 @@ hr {
     background-color: var(--primary);
     color: white;
     padding: 1rem;
-    border-top-left-radius: 0.6rem;
+    border-top-left-radius: 0.55rem;
     font-family: 'Titillium Web', sans-serif;
 }
 
