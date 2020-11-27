@@ -41,7 +41,7 @@ hr {
     width: max-content;
     min-width: 140px;
     border-radius: 0.5rem;
-    padding: 0.5rem 1rem 0.5rem 1rem;
+    padding: 0.5rem 0.2rem 0.5rem 0.2rem;
     /* margin: 1rem  0rem; */
 }
 
@@ -73,7 +73,7 @@ hr {
     background-color: var(--primary);
     color: white;
     padding: 1rem;
-    border-top-left-radius: 0.55rem;
+    border-top-left-radius: 0.6rem;
     font-family: 'Titillium Web', sans-serif;
 }
 
