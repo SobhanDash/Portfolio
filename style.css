@@ -72,7 +72,7 @@ hr {
 .navigation {
     background-color: var(--primary);
     color: white;
-    padding: 1rem;
+    padding: 0.9rem;
     border-top-left-radius: 1rem;
     font-family: 'Titillium Web', sans-serif;
 }
