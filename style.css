@@ -73,7 +73,7 @@ hr {
     background-color: var(--primary);
     color: white;
     padding: 1rem;
-    border-top-left-radius: 0.7rem;
+    border-top-left-radius: 0.6rem;
     font-family: 'Titillium Web', sans-serif;
 }
 
