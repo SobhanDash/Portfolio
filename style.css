@@ -169,3 +169,8 @@ hr {
 .footer ul {
     padding-inline-start: 0px;
 }
+
+.footer i {
+    font-size: 30px;
+    margin: 1rem;
+}
